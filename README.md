@@ -1,7 +1,7 @@
 
 # Terraform Main commands
 
-
+```
 Main commands:
  terraform init          Prepare your working directory for other commands
   validate      Check whether the configuration is valid
@@ -29,3 +29,5 @@ All other commands:
   workspace     Workspace management
   -help         Show this help output, or the help for a specified subcommand.
   -version      An alias for the "version" subcommand.
+  
+  ```
